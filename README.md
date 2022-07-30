@@ -1,4 +1,4 @@
-### Hi there 👋
+### hey i'm minci, hacker and creative. connect with on Twitter [@iamminci](https://twitter.com/iamminci)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamminci)](https://github.com/anuraghazra/github-readme-stats)
 
